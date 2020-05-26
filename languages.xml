@@ -1,0 +1,261 @@
+<Langs>
+    <dirs>
+       <string>az-ru</string>
+       <string>be-bg</string>
+       <string>be-cs</string>
+       <string>be-de</string>
+       <string>be-en</string>
+       <string>be-es</string>
+       <string>be-fr</string>
+       <string>be-it</string>
+       <string>be-pl</string>
+       <string>be-ro</string>
+       <string>be-ru</string>
+       <string>be-sr</string>
+       <string>be-tr</string>
+       <string>bg-be</string>
+       <string>bg-ru</string>
+       <string>bg-uk</string>
+       <string>ca-en</string>
+       <string>ca-ru</string>
+       <string>cs-be</string>
+       <string>cs-en</string>
+       <string>cs-ru</string>
+       <string>cs-uk</string>
+       <string>da-en</string>
+       <string>da-ru</string>
+       <string>de-be</string>
+       <string>de-en</string>
+       <string>de-es</string>
+       <string>de-fr</string>
+       <string>de-it</string>
+       <string>de-ru</string>
+       <string>de-tr</string>
+       <string>de-uk</string>
+       <string>el-en</string>
+       <string>el-ru</string>
+       <string>en-be</string>
+       <string>en-ca</string>
+       <string>en-cs</string>
+       <string>en-da</string>
+       <string>en-de</string>
+       <string>en-el</string>
+       <string>en-es</string>
+       <string>en-et</string>
+       <string>en-fi</string>
+       <string>en-fr</string>
+       <string>en-hu</string>
+       <string>en-it</string>
+       <string>en-lt</string>
+       <string>en-lv</string>
+       <string>en-mk</string>
+       <string>en-nl</string>
+       <string>en-no</string>
+       <string>en-pt</string>
+       <string>en-ru</string>
+       <string>en-sk</string>
+       <string>en-sl</string>
+       <string>en-sq</string>
+       <string>en-sv</string>
+       <string>en-tr</string>
+       <string>en-uk</string>
+       <string>es-be</string>
+       <string>es-de</string>
+       <string>es-en</string>
+       <string>es-ru</string>
+       <string>es-uk</string>
+       <string>et-en</string>
+       <string>et-ru</string>
+       <string>fi-en</string>
+       <string>fi-ru</string>
+       <string>fr-be</string>
+       <string>fr-de</string>
+       <string>fr-en</string>
+       <string>fr-ru</string>
+       <string>fr-uk</string>
+       <string>hr-ru</string>
+       <string>hu-en</string>
+       <string>hu-ru</string>
+       <string>hy-ru</string>
+       <string>it-be</string>
+       <string>it-de</string>
+       <string>it-en</string>
+       <string>it-ru</string>
+       <string>it-uk</string>
+       <string>lt-en</string>
+       <string>lt-ru</string>
+       <string>lv-en</string>
+       <string>lv-ru</string>
+       <string>mk-en</string>
+       <string>mk-ru</string>
+       <string>nl-en</string>
+       <string>nl-ru</string>
+       <string>no-en</string>
+       <string>no-ru</string>
+       <string>pl-be</string>
+       <string>pl-ru</string>
+       <string>pl-uk</string>
+       <string>pt-en</string>
+       <string>pt-ru</string>
+       <string>ro-be</string>
+       <string>ro-ru</string>
+       <string>ro-uk</string>
+       <string>ru-az</string>
+       <string>ru-be</string>
+       <string>ru-bg</string>
+       <string>ru-ca</string>
+       <string>ru-cs</string>
+       <string>ru-da</string>
+       <string>ru-de</string>
+       <string>ru-el</string>
+       <string>ru-en</string>
+       <string>ru-es</string>
+       <string>ru-et</string>
+       <string>ru-fi</string>
+       <string>ru-fr</string>
+       <string>ru-hr</string>
+       <string>ru-hu</string>
+       <string>ru-hy</string>
+       <string>ru-it</string>
+       <string>ru-lt</string>
+       <string>ru-lv</string>
+       <string>ru-mk</string>
+       <string>ru-nl</string>
+       <string>ru-no</string>
+       <string>ru-pl</string>
+       <string>ru-pt</string>
+       <string>ru-ro</string>
+       <string>ru-sk</string>
+       <string>ru-sl</string>
+       <string>ru-sq</string>
+       <string>ru-sr</string>
+       <string>ru-sv</string>
+       <string>ru-tr</string>
+       <string>ru-uk</string>
+       <string>sk-en</string>
+       <string>sk-ru</string>
+       <string>sl-en</string>
+       <string>sl-ru</string>
+       <string>sq-en</string>
+       <string>sq-ru</string>
+       <string>sr-be</string>
+       <string>sr-ru</string>
+       <string>sr-uk</string>
+       <string>sv-en</string>
+       <string>sv-ru</string>
+       <string>tr-be</string>
+       <string>tr-de</string>
+       <string>tr-en</string>
+       <string>tr-ru</string>
+       <string>tr-uk</string>
+       <string>uk-bg</string>
+       <string>uk-cs</string>
+       <string>uk-de</string>
+       <string>uk-en</string>
+       <string>uk-es</string>
+       <string>uk-fr</string>
+       <string>uk-it</string>
+       <string>uk-pl</string>
+       <string>uk-ro</string>
+       <string>uk-ru</string>
+       <string>uk-sr</string>
+       <string>uk-tr</string>
+    </dirs>
+    <langs>
+        <Item key="af" value="Afrikaans" />
+        <Item key="am" value="Amharic" />
+        <Item key="ar" value="Arabic" />
+        <Item key="az" value="Azerbaijani" />
+        <Item key="ba" value="Bashkir" />
+        <Item key="be" value="Belarusian" />
+        <Item key="bg" value="Bulgarian" />
+        <Item key="bn" value="Bengali" />
+        <Item key="bs" value="Bosnian" />
+        <Item key="ca" value="Catalan" />
+        <Item key="ceb" value="Cebuano" />
+        <Item key="cs" value="Czech" />
+        <Item key="cv" value="Chuvash" />
+        <Item key="cy" value="Welsh" />
+        <Item key="da" value="Danish" />
+        <Item key="de" value="German" />
+        <Item key="el" value="Greek" />
+        <Item key="en" value="English" />
+        <Item key="eo" value="Esperanto" />
+        <Item key="es" value="Spanish" />
+        <Item key="et" value="Estonian" />
+        <Item key="eu" value="Basque" />
+        <Item key="fa" value="Persian" />
+        <Item key="fi" value="Finnish" />
+        <Item key="fr" value="French" />
+        <Item key="ga" value="Irish" />
+        <Item key="gd" value="Scottish Gaelic" />
+        <Item key="gl" value="Galician" />
+        <Item key="gu" value="Gujarati" />
+        <Item key="he" value="Hebrew" />
+        <Item key="hi" value="Hindi" />
+        <Item key="hr" value="Croatian" />
+        <Item key="ht" value="Haitian" />
+        <Item key="hu" value="Hungarian" />
+        <Item key="hy" value="Armenian" />
+        <Item key="id" value="Indonesian" />
+        <Item key="is" value="Icelandic" />
+        <Item key="it" value="Italian" />
+        <Item key="ja" value="Japanese" />
+        <Item key="jv" value="Javanese" />
+        <Item key="ka" value="Georgian" />
+        <Item key="kk" value="Kazakh" />
+        <Item key="km" value="Khmer" />
+        <Item key="kn" value="Kannada" />
+        <Item key="ko" value="Korean" />
+        <Item key="ky" value="Kyrgyz" />
+        <Item key="la" value="Latin" />
+        <Item key="lb" value="Luxembourgish" />
+        <Item key="lo" value="Lao" />
+        <Item key="lt" value="Lithuanian" />
+        <Item key="lv" value="Latvian" />
+        <Item key="mg" value="Malagasy" />
+        <Item key="mhr" value="Mari" />
+        <Item key="mi" value="Maori" />
+        <Item key="mk" value="Macedonian" />
+        <Item key="ml" value="Malayalam" />
+        <Item key="mn" value="Mongolian" />
+        <Item key="mr" value="Marathi" />
+        <Item key="mrj" value="Hill Mari" />
+        <Item key="ms" value="Malay" />
+        <Item key="mt" value="Maltese" />
+        <Item key="my" value="Burmese" />
+        <Item key="ne" value="Nepali" />
+        <Item key="nl" value="Dutch" />
+        <Item key="no" value="Norwegian" />
+        <Item key="pa" value="Punjabi" />
+        <Item key="pap" value="Papiamento" />
+        <Item key="pl" value="Polish" />
+        <Item key="pt" value="Portuguese" />
+        <Item key="ro" value="Romanian" />
+        <Item key="ru" value="Russian" />
+        <Item key="sah" value="Yakut" />
+        <Item key="si" value="Sinhalese" />
+        <Item key="sk" value="Slovak" />
+        <Item key="sl" value="Slovenian" />
+        <Item key="sq" value="Albanian" />
+        <Item key="sr" value="Serbian" />
+        <Item key="su" value="Sundanese" />
+        <Item key="sv" value="Swedish" />
+        <Item key="sw" value="Swahili" />
+        <Item key="ta" value="Tamil" />
+        <Item key="te" value="Telugu" />
+        <Item key="tg" value="Tajik" />
+        <Item key="th" value="Thai" />
+        <Item key="tl" value="Tagalog" />
+        <Item key="tr" value="Turkish" />
+        <Item key="tt" value="Tatar" />
+        <Item key="udm" value="Udmurt" />
+        <Item key="uk" value="Ukrainian" />
+        <Item key="ur" value="Urdu" />
+        <Item key="uz" value="Uzbek" />
+        <Item key="vi" value="Vietnamese" />
+        <Item key="xh" value="Xhosa" />
+        <Item key="yi" value="Yiddish" />
+        <Item key="zh" value="Chinese" />
+    </langs>
+</Langs>
