@@ -18,10 +18,8 @@ async def detect(query: str) -> str:
                 }
         ) as response:
             response = await response.json()
-            try:
-                return response['lang']
-            except KeyError:
-                return ''
+            return response.get('lang', '')
+
 
 
 async def translate(from_lang: str, to_lang: str, query: str) -> str:
